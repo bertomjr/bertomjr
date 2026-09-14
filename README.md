@@ -1,4 +1,4 @@
-## Hi, I'm Roberto 👋
+## Hey! I'm Roberto 👨🏿‍💻
 
 I'm a software engineering student at Western Governors University, pursuing the accelerated B.S.-to-M.S. Software Engineering program. I'm also CompTIA A+ certified, with interests in Linux, automation, and game development.
 
