@@ -2,7 +2,7 @@
 
 I'm a software engineering student at Western Governors University, pursuing the accelerated B.S.-to-M.S. Software Engineering program. I'm also CompTIA A+ certified, with interests in Linux, automation, and game development.
 
-I'm developing my skills in Python, JavaScript, and HTML/CSS through coursework and hands-on projects. My long-term interests include software engineering, cloud infrastructure, and DevOps.
+I'm developing my skills in Python, JavaScript, and HTML/CSS through coursework and hands-on projects. My long-term interests include cloud infrastructure and DevOps.
 
 ### What I'm building
 
