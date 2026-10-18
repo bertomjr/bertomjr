@@ -1,6 +1,6 @@
 ## Hey! I'm Roberto 👨🏿‍💻
 
-I'm a software engineering student at Western Governors University, pursuing the accelerated B.S.-to-M.S. Software Engineering program. I'm also CompTIA A+ certified, with interests in Linux, automation, and game development.
+I'm a student at Western Governors University, currently pursuing a B.S. in Software Engineering. I'm also CompTIA A+ certified, with interests in Linux, automation, and game development.
 
 I'm developing my skills in Python, JavaScript, and HTML/CSS through coursework and hands-on projects. My long-term interests include cloud infrastructure and DevOps.
 
