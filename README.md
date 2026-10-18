@@ -9,4 +9,4 @@ I'm developing my skills in Python, JavaScript, and HTML/CSS through coursework 
 * **[Frontend development](https://github.com/bertomjr/frontend-mentor):** My implementations of [Frontend Mentor](https://www.frontendmentor.io/) challenges, focusing on responsive layouts, semantic HTML, and accessible interfaces.
 * **[Programming and backend foundations](https://github.com/bertomjr/boot.dev):** Projects built while following [Boot.dev’s Backend Developer Path](https://www.boot.dev/paths/backend?tech=python-typescript), including Bookbot and Asteroid Game.
 
-Outside of coding, I enjoy music production and exploring how programming, sound, and visual design come together in games.
+Outside of coding, music production is another interest of mine, and I’d like to explore how programming, sound, and visual design can come together in games.
